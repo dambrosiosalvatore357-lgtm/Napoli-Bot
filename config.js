@@ -16,10 +16,10 @@ global.wait = 'ⓘ 𝐂𝐚𝐫𝐢𝐜𝐚𝐦𝐞𝐧𝐭𝐨 ...';
 
 global.pro = [
   ['393336413960', '💙Salvatore💙', true],
-  ['19184025124', 'Simone, true],
-  ['393510516821','business, true],
-  ['393773800915', ',Andrea😎👑 true],
-  ['18002428478', 'staff, true],
+  ['19184025124', 'Simone', true],
+  ['393510516821','business', true],
+  ['393773800915', ',Andrea😎👑 ',true],
+  ['18002428478', 'staff', true],
   ['xxxxxxxxxx']
 ];
 global.mods = ['xxxxxxxxxx'];
