@@ -18,8 +18,8 @@ global.owner = [
   ['19184025124', 'Simone', true],
   ['393510516821','business', true],
   ['393773800915', ',Andrea😎👑 ',true],
-  ['xxxxxxxxxxxx,]
-  ['xxxxxxxxxxxx,]
+  ['xxxxxxxxxxxx']
+  ['xxxxxxxxxxxx']
 ];
 global.mods = ['xxxxxxxxxx'];
 global.prems = ['xxxxxxxxxx', 'xxxxxxxxxx'];
