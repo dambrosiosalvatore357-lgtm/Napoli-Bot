@@ -5,9 +5,9 @@ import { fileURLToPath } from 'url';
 
 global.botnumber = '';
 global.confirmCode = '';
-global.nomebot = Napoli-Bot;
-global.packname = Napoli_Bot;
-global.author = https://whatsapp.com/channel/0029VbBVRIl9Gv7ZcEAhey2g;
+global.nomebot =.Napoli-Bot;
+global.packname =.Napoli_Bot;
+global.author = .https://whatsapp.com/channel/0029VbBVRIl9Gv7ZcEAhey2g;
 global.vs = '8.8';
 global.collab = 'Demon Slayer';
 global.wm = global.Napoli_Bot;
