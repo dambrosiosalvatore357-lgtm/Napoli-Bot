@@ -14,12 +14,12 @@ global.wm = global.Napoli_Bot;
 global.wait = 'ⓘ 𝐂𝐚𝐫𝐢𝐜𝐚𝐦𝐞𝐧𝐭𝐨 ...';
 
 
-global.owner = [
+global.pro = [
   ['393336413960', 'creatore, true],
   ['19184025124', 'staff napoli, true],
-  ['393510516821,',staff napoli, true],
-  ['393773800915,',staff napoli, true],
-  ['18002428478,',staff Napoli, true],
+  ['393510516821','staff napoli, true],
+  ['393773800915', 'staff napoli, true],
+  ['18002428478', 'staff Napoli, true],
   ['xxxxxxxxxx']
 ];
 global.mods = ['xxxxxxxxxx'];
