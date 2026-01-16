@@ -5,21 +5,21 @@ import { fileURLToPath } from 'url';
 
 global.botnumber = '';
 global.confirmCode = '';
-global.nomebot = '𝐂𝐡𝐚𝐭𝐔𝐧𝐢𝐭𝐲-𝐁𝐨𝐭';
-global.packname = '𝐂𝐡𝐚𝐭𝐔𝐧𝐢𝐭𝐲-𝐁𝐨𝐭';
-global.author = '𝐌𝐝';
+global.nomebot = 'Napoli-Bot';
+global.packname = 'Napoli_Bot';
+global.author = 'https://whatsapp.com/channel/0029VbBVRIl9Gv7ZcEAhey2g';
 global.vs = '8.8';
 global.collab = 'Demon Slayer';
-global.wm = global.nomebot;
+global.wm = global.Napoli_Bot;
 global.wait = 'ⓘ 𝐂𝐚𝐫𝐢𝐜𝐚𝐦𝐞𝐧𝐭𝐨 ...';
 
 
 global.owner = [
   ['393336413960', 'creatore, true],
-  ['xxxxxxxxxx'], //mettete il vostro numero al posto delle x e copiate sopra il formato dopo ovvero 'nome', true
-  ['xxxxxxxxxx'],
-  ['xxxxxxxxxx'],
-  ['xxxxxxxxxx'],
+  ['19184025124', 'staff napoli, true],
+  ['393510516821,',staff napoli, true],
+  ['393773800915,',staff napoli, true],
+  ['18002428478,',staff Napoli, true],
   ['xxxxxxxxxx']
 ];
 global.mods = ['xxxxxxxxxx'];
