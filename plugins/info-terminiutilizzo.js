@@ -3,7 +3,7 @@ import fetch from 'node-fetch'; // Assicurati di avere node-fetch installato
 
 const handler = async (message, { conn, usedPrefix }) => {
     const userCount = Object.keys(global.db.data.users).length;
-    const botName = global.db.data.nomedelbot || 'ChatUnity';
+    const botName = global.db.data.nomedelbot || 'Napoli-Bot';
 
     const menuText = generateMenuText(usedPrefix, botName, userCount);
 
@@ -94,6 +94,6 @@ https://github.com/chatunitycenter/chatunity-bot
 ~ _Se apprezzi e valorizzi il lavoro che ho svolto, puoi aiutarmi con una donazione per continuare questo progetto._
 *https://paypal.me/chatunity*
 
-*~ Grazie per aver dedicato del tempo a informarti su chatunity-bot*
+*~ Grazie per aver dedicato del tempo a informarti su Napoli-Bot*
 `.trim();
 }
