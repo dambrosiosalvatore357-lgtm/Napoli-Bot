@@ -18,16 +18,16 @@
     "eslintfix": "eslint --fix .",
     "localize": "node scripts/localize-plugins.js"
   },
-  "homepage": "https://github.com/dambrosiosalvatore357-lgtm/Napoli-Bot",
+  "homepage": "https://github.com/chatunitycenter/chatunity-bot",
   "author": {
     "name": "Napoli-Bot"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dambrosiosalvatore357-lgtm/Napoli-Bot.git"
+    "url": "githttps://git.hub.com/chatunitycenter/chatunity-bot.git"
   },
   "bugs": {
-    "url": "https://github.com/dambrosiosalvatore357-lgtm/Napoli-Bot/issues"
+    "url": "https://github.com/chatunitycenter/chatunity-bot/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
