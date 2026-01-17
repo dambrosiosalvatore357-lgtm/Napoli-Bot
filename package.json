@@ -1,5 +1,5 @@
 {
-  "name": "Napoli-Bot",
+  "name": "chatunity-bot",
   "version": "8.0",
   "description": "Nada",
   "main": "main.js",
@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/chatunitycenter/chatunity-bot",
   "author": {
-    "name": "Napoli-Bot"
+    "name": "chatunity-bot" 
   },
   "repository": {
     "type": "git",
