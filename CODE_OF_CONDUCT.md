@@ -5,7 +5,7 @@
 **Versione 8.0**  
 
 ## **Introduzione**  
-Questo Codice di Condotta definisce le aspettative di comportamento per tutti coloro che partecipano alla comunità, al progetto o all'uso del software associato a **[ChatUnity-Bot]**. Il rispetto, l'inclusività e la collaborazione sono i pilastri fondamentali di questa comunità. Ci impegniamo a garantire un ambiente sicuro, accogliente e privo di discriminazioni per tutti.  
+Questo Codice di Condotta definisce le aspettative di comportamento per tutti coloro che partecipano alla comunità, al progetto o all'uso del software associato a **[Napoli-Bot]**. Il rispetto, l'inclusività e la collaborazione sono i pilastri fondamentali di questa comunità. Ci impegniamo a garantire un ambiente sicuro, accogliente e privo di discriminazioni per tutti.  
 
 ---
 
@@ -30,7 +30,7 @@ Questo Codice di Condotta definisce le aspettative di comportamento per tutti co
 
 ## **5. Segnalazione di Violazioni**  
 Se assisti o sei vittima di una violazione di questo Codice di Condotta, ti invitiamo a segnalarlo immediatamente.  
-- Contatta il team di moderazione all'indirizzo: **[chatunitycenter@gmail.com]**.  
+- Contatta il team di moderazione all'indirizzo: **[salvatoredambrosio671@gmail.com]**.  
 - Fornisci dettagli chiari e precisi sull'incidente, inclusi screenshot o prove se disponibili.  
 - Le segnalazioni saranno trattate in modo riservato e tempestivo.  
 
@@ -53,6 +53,6 @@ Tutti i membri della comunità sono tenuti a rispettare questo Codice di Condott
 **Nota Finale:**  
 Questo Codice di Condotta è stato creato per garantire che tutti possano partecipare in modo sicuro e rispettoso. Grazie per il tuo contributo nel mantenere questa comunità un luogo accogliente e collaborativo!  
 
-Per domande o chiarimenti, contatta: **[chatunitycenter@gmail.com]**.  
+Per domande o chiarimenti, contatta: **[salvatoredambrosio671@gmail.com]**.  
 
 ---
